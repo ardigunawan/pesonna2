@@ -1781,7 +1781,6 @@ form input[type="submit"]:focus {
 .con-top {
     margin-top: 2em;
 	    margin-top: 2em;
-    float: left;
 }
 .con-top.two {
     margin-left: 3em;
@@ -1869,7 +1868,7 @@ ul.social li a:hover{
 ul.social{
 	    display: block;
     padding: 0;
-    margin: 3em auto 0;
+    margin: 1em auto 0;
     text-align: center;
 }
 ul.social li{
@@ -3280,7 +3279,6 @@ p.copy-right a:hover{
 	}
 	ul.social li {
 		display: inline-block;
-		float: left;
 		width: 11%;
 		margin: 0 1em;
 	}
